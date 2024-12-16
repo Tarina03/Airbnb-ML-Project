@@ -9,11 +9,9 @@ This project implements machine learning models to predict **Airbnb listing pric
 
 1. [Overview](#overview)
 2. [Features](#features)
-3. [Setup](#setup)
-4. [Usage](#usage)
-5. [Results](#results)
-6. [Technologies Used](#technologies-used)
-7. [Future Work](#future-work)
+3. [Results](#results)
+4. [Technologies Used](#technologies-used)
+5. [Future Work](#future-work)
 
 ---
 
