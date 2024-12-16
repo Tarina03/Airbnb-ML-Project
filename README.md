@@ -77,11 +77,3 @@ These results demonstrate the model's ability to accurately predict rental price
 - Explore deep learning models for more complex relationships.
 - Develop a web-based interface for users to input data and view predictions in real-time.
 
----
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-For questions or feedback, feel free to contact **[Your Name]** at **[Your Email]** or raise an issue in the repository.
